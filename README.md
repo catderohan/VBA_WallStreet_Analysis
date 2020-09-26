@@ -1,4 +1,4 @@
-# VBA_CHallenge
+# VBA_StockAnalysis_Challenge
 Analyzing stocks and refactoring code
 
 ## Overview of Project

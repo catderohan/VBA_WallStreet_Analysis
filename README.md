@@ -11,7 +11,6 @@ Looking at 2017 vs 2018 results, 2017 was overall was a much more successful yea
 2017 Results w/Refactored Time Speed
 ![](resources/VBA_Challenge_2017.png)
 
-
 2018 Results w/Refactored Time Speed 
 ![](resources/VBA_Challenge_2018.png)
 

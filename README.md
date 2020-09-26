@@ -9,10 +9,10 @@ The purpose of this assignment was to refactor code so Steve could analyze the e
 Looking at 2017 vs 2018 results, 2017 was overall was a much more successful year regarding the 12 stocks Steve was analyzing. In 2017 only 1 of the stocks listed (TERP) had a negative return.   In 2018, all but 2 stocks had a negative return. Most of these stocks with a negative return had over a negative 20% return. Two stocks did perform well in 2018 (ENPH and RUN) with over a positive 80% return. Overall with the stocks Steve was looking at, 2017 was the better year to invest in. Some 2017 stocks were over 100% return! 
 
 2017 Results w/Refactored Time Speed
-![](resources/VBA_Challenge_2017.png)
+![](resources/VBA_Challenge_2017.PNG)
 
 2018 Results w/Refactored Time Speed 
-![](resources/VBA_Challenge_2018.png)
+![](resources/VBA_Challenge_2018.PNG)
 
 Refactoring the code did lead to a faster execution speed. Before the code was refactored speeds were .50 for (2017) and .69 for (2018). After refactoring the code, speed times were .11 seconds for both 2017 and 2018.  
  

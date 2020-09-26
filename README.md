@@ -1,6 +1,5 @@
-# stock-analysis
-module 2 practice
-# Kickstarting with Excel
+# VBA_CHallenge
+Analyzing stocks and refactoring code
 
 ## Overview of Project
 

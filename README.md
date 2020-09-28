@@ -1,8 +1,6 @@
 # VBA_StockAnalysis_Challenge
 
 ## Overview of Project
-
-### Purpose
 The purpose of this assignment was to refactor code so Steve could analyze the entire stock market over the past few years. Previously the code was written to execute the 12 stocks we were analyzing before. We wanted to make the code execute faster as well as let Steve analyze more stocks. Using this code, Steve can analyze  the total daily volume as well as the return of the stock by year to determine where to invest in.
 ## Results
 Looking at 2017 vs 2018 results, 2017 was overall was a much more successful year regarding the 12 stocks Steve was analyzing. In 2017 only 1 of the stocks listed (TERP) had a negative return.   In 2018, all but 2 stocks had a negative return. Most of these stocks with a negative return had over a negative 20% return. Two stocks did perform well in 2018 (ENPH and RUN) with over a positive 80% return. Overall with the stocks Steve was looking at, 2017 was the better year to invest in. Some 2017 stocks were over 100% return! 
